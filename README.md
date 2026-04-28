@@ -1,4 +1,4 @@
 GROUP 2
 
-Juhani Mänty, Janne Paasomaa, Arttu Pirilä, Joonas Siironen
+Juhani Mänty, Janne Puolamaa, Arttu Pirilä, Joonas Siironen
 
